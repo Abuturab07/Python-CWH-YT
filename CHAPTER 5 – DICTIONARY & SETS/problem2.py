@@ -1,0 +1,32 @@
+# n1 = int(input("Enter your number : "))
+# n2 = int(input("Enter your number : "))
+# n3 = int(input("Enter your number : "))
+# n4 = int(input("Enter your number : "))
+# n5 = int(input("Enter your number : "))
+# n6 = int(input("Enter your number : "))
+# n7 = int(input("Enter your number : "))
+# n8 = int(input("Enter your number : "))
+
+# num = {n1,n2,n3,n4,n5,n6,n7,n8}
+# print(num)
+
+#OR
+s = set()
+n = input("Enter number ")
+s.add(int(n))
+n = input("Enter number ")
+s.add(int(n))
+n = input("Enter number ")
+s.add(int(n))
+n = input("Enter number ")
+s.add(int(n))
+n = input("Enter number ")
+s.add(int(n))
+n = input("Enter number ")
+s.add(int(n))
+n = input("Enter number ")
+s.add(int(n))
+n = input("Enter number ")
+s.add(int(n))
+
+print(s)
