@@ -6,7 +6,7 @@
 friends = ["apple","orange",5,345.06,False,"Aakash","Rohan"]
 print(friends[0])
 friends[0] = "grapes" # Unlike strings, list are mutable( you can change them)
-print(friends[0])\
+print(friends[0])
 
 # list slicing
 print(friends[0:2])
